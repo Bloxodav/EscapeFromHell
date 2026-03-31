@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 661751997, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Signal Track
+  m_EditorClassIdentifier:
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename:
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000, guid: 3cad1797f52211043aef91b71becbcdc, type: 2}
+  m_Children: []
+  m_Clips: []
+  m_Markers:
+    m_Objects:
+    - {fileID: 11400000, guid: 1b9aaaa1a97472b44a45c32e54801ea1, type: 2}
+    - {fileID: 11400000, guid: cc822bd2b10274d48bb0daa526c35252, type: 2}
+    - {fileID: 11400000, guid: 22268e54d4b9b6a45b916c233ac0a390, type: 2}
+    - {fileID: 11400000, guid: 85c295663dd390f43a4864938a3a3346, type: 2}
+    - {fileID: 11400000, guid: 33217689d0e90f542975ba18d0538272, type: 2}
+    - {fileID: 11400000, guid: 82a46f0850406fc4eb84a5fdd6a7b6f3, type: 2}
+    - {fileID: 11400000, guid: 629f3d9852250334d891990381788be5, type: 2}
+    - {fileID: 11400000, guid: 7ad1fd261e2535f418959ace5118fa7f, type: 2}
+    - {fileID: 11400000, guid: af796b2f0b194a340a20f989da319b51, type: 2}

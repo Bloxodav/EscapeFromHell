@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Supper_poisoning
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 5d6b0497bcbaf43448f86b83f7fabb17, type: 2}
+  - {fileID: 11400000, guid: 80357852fb597624da432f6b180ad1f7, type: 2}
+  - {fileID: 11400000, guid: f48cd0b6c0122e44192ae16ccacbf2e7, type: 2}
+  - {fileID: 11400000, guid: 2621d709935fd334e916b10da525e5d0, type: 2}
+  - {fileID: 11400000, guid: 41746b22076e5b042afcbfd2c762cfeb, type: 2}
+  - {fileID: 11400000, guid: 9cbc6e5d3e6e5fb48a11503c8a005dc4, type: 2}
+  - {fileID: 11400000, guid: e56c33def26d7cb47abcb440400129c4, type: 2}
+  - {fileID: 11400000, guid: 6b04c14a002c2d04191059abe2ee562a, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 8423073045d3a354db8f0f8fc8218f70, type: 2}

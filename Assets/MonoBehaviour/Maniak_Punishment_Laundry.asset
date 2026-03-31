@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Maniak_Punishment_Laundry
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 13ae240ad51fe71478344ca6b0917ecd, type: 2}
+  - {fileID: 11400000, guid: 05e27a5b1dc2dac4daf72fdcf1e712d4, type: 2}
+  - {fileID: 11400000, guid: e4aec47535954e140b67a1dc0d110a62, type: 2}
+  - {fileID: 11400000, guid: d6c419975f6a95f45980716891d28dcb, type: 2}
+  - {fileID: 11400000, guid: bee104400ff2a1d4495c65f89962455b, type: 2}
+  - {fileID: 11400000, guid: bf6e45c81a4c5e747b65017ec63ce54b, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: f4ba7b6f3d7bb394dbe4612e5906e92c, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Maniak_Punishment_door_Kitchen
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: a99ac27ebb87881439e24a27d38b2d54, type: 2}
+  - {fileID: 11400000, guid: 7dec6a4299aba354ea7cfa7b8b23f5f6, type: 2}
+  - {fileID: 11400000, guid: d459b9d0dda5155429d207d6ae2082fe, type: 2}
+  - {fileID: 11400000, guid: 0807876206f118249b6d2598765957d7, type: 2}
+  - {fileID: 11400000, guid: 9bbd68988b8860644830b43ebbc887df, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 2d889613ed008804381791aff5e3a402, type: 2}

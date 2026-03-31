@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Maniak_Punishment_Basement
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 7ecb2a736ca87fe49a36b9b74c0ccaa3, type: 2}
+  - {fileID: 11400000, guid: 26d6e439c8d90b84ba9552bb4cdc42a2, type: 2}
+  - {fileID: 11400000, guid: c076f58f54b1ca046833a5e1b7cb5dfd, type: 2}
+  - {fileID: 11400000, guid: a491c9af705b9854e9a4fdc6275ebe3a, type: 2}
+  - {fileID: 11400000, guid: c3cbbbadcaacd6a4f8ea698582fa2a3c, type: 2}
+  - {fileID: 11400000, guid: 22f111cb99b7bf247b1e97be1b6606dc, type: 2}
+  - {fileID: 11400000, guid: d58723333c901a54e88cfecf2ab90969, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: b2e72edf3b46b534b9fcc9aa4155f8bd, type: 2}

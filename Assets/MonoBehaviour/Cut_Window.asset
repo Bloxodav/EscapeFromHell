@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Cut_Window
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 917de35e4d81180429a73767123ee86b, type: 2}
+  - {fileID: 11400000, guid: e2a84e8661efacb4f9c3b57b07402baf, type: 2}
+  - {fileID: 11400000, guid: de31d4c803be2e44388ad9177a30fe7f, type: 2}
+  - {fileID: 11400000, guid: 0d9844bd0060db24d9e1045bec9a923d, type: 2}
+  - {fileID: 11400000, guid: a7b92144fd7196f47970c5415c9e1c3d, type: 2}
+  - {fileID: 11400000, guid: 2403aa0fbc8879240a730f72882a53e8, type: 2}
+  - {fileID: 11400000, guid: 13d0457bf24bb364f856d825f4858711, type: 2}
+  - {fileID: 11400000, guid: 516133f462a1a034c812f7e97a230a49, type: 2}
+  - {fileID: 11400000, guid: 2bf07c8b6d857264a930b331b508e385, type: 2}
+  - {fileID: 11400000, guid: 830509cd1a469674e900f7ce28451793, type: 2}
+  - {fileID: 11400000, guid: ec6f0886ef429404396b78927e3d989b, type: 2}
+  - {fileID: 11400000, guid: be60db4973ff5374ea5658288f262cb5, type: 2}
+  - {fileID: 11400000, guid: 31a8f40743018e74080fa7b817db7c66, type: 2}
+  - {fileID: 11400000, guid: c27a460f38c359945aea77037e250fdc, type: 2}
+  m_FixedDuration: 46.43333333333333
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 4ae5c1c6bb0b2df4d92c22c37ea4d8af, type: 2}

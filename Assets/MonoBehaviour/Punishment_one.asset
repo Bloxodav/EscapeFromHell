@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Punishment_one
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 52033553ce8897e46b03b529a9c8ccb0, type: 2}
+  - {fileID: 11400000, guid: 44edd1544852abc4591b1e789dfd3fd9, type: 2}
+  - {fileID: 11400000, guid: a06954d79e2ed424788ad7d8048f4248, type: 2}
+  - {fileID: 11400000, guid: 5c6350ce208f9f646922beea953ab539, type: 2}
+  - {fileID: 11400000, guid: eff6b34a375729f438d5982cc0d71f3e, type: 2}
+  - {fileID: 11400000, guid: 7589cb5b1f1d17c4fb9aacda678a122f, type: 2}
+  - {fileID: 11400000, guid: e45076f0f4e83bf45989f6eda7204735, type: 2}
+  - {fileID: 11400000, guid: 5452d7ba06e8c9e429e1a7a9214c0eb6, type: 2}
+  - {fileID: 11400000, guid: 9e896408edc246f42b17fcd36869f249, type: 2}
+  - {fileID: 11400000, guid: c778ac09564798549896309bf964365b, type: 2}
+  - {fileID: 11400000, guid: 91289adc88bfd9946b9f8996b7096afc, type: 2}
+  - {fileID: 11400000, guid: 4ffaadb75a5646e4191ec0eae7c5d53b, type: 2}
+  - {fileID: 11400000, guid: 1020f81aff4b8574f8ea3807c970c44d, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 71fe7d10795ef174e9df327f3fcb4a63, type: 2}

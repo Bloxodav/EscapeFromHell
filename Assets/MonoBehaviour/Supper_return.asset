@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Supper_return
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 79db48c2c6ba08747b8fbf9db74c552a, type: 2}
+  - {fileID: 11400000, guid: e327e7fdadfc48849be3eeccbe918c47, type: 2}
+  - {fileID: 11400000, guid: aefdc78fb98d70a4ea07c48e8a2b2404, type: 2}
+  - {fileID: 11400000, guid: a2ae8c4397a75e64faff65231da91dfd, type: 2}
+  - {fileID: 11400000, guid: c7e80079cccfe4e4981778318802a2e8, type: 2}
+  - {fileID: 11400000, guid: cafc427c85bc5f94eac75c18201154a8, type: 2}
+  - {fileID: 11400000, guid: b1c1a84369f4e8b4a86b76fc02a3ce3f, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: c086f9170d79db045a810f84840d9688, type: 2}

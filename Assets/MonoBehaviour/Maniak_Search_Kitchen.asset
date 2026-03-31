@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Maniak_Search_Kitchen
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 5fee36e2b5fbddf4ca156743279db8cc, type: 2}
+  - {fileID: 11400000, guid: 3ac8cc2078f6c7a40bb97060f17c899a, type: 2}
+  - {fileID: 11400000, guid: a31c8bb07cbfb484bbfb12f5d54cca5d, type: 2}
+  - {fileID: 11400000, guid: 1d37f8c01772c2143b727864ec49ea03, type: 2}
+  - {fileID: 11400000, guid: c4ebf78f31fb8d14b91c19e4e3458fa2, type: 2}
+  - {fileID: 11400000, guid: 2048b2051db8d2d4aa6b9d3b0f83db23, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 53efefa548b66da49961189ea3ebe0a6, type: 2}

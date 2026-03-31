@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Escape_death_by_gunshot
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 1ebcbdf7b7fe5fc4d8f2b27210cd9252, type: 2}
+  - {fileID: 11400000, guid: 4f62bd4e7bfc5d1439b400d10508f6ab, type: 2}
+  - {fileID: 11400000, guid: bc3fe7553a400ab4ba72037ad5dedce4, type: 2}
+  - {fileID: 11400000, guid: a6c225a1879d05a4eb02e6e1318fb8c1, type: 2}
+  - {fileID: 11400000, guid: bc1080ab869635a469a33487461d3c79, type: 2}
+  - {fileID: 11400000, guid: cf7580f8a95dd514d8151d41fe03ff3e, type: 2}
+  - {fileID: 11400000, guid: 6dcbb208ebaf56e4c98fcb77705758e2, type: 2}
+  - {fileID: 11400000, guid: c85ac7c92ab9e5e48918063680d4dc4d, type: 2}
+  - {fileID: 11400000, guid: 56cbb10709c9b9a41973b47f07959d5d, type: 2}
+  - {fileID: 11400000, guid: d4a300f044014fa44bc2f17599ab761e, type: 2}
+  - {fileID: 11400000, guid: ddb759cc59538e64fa4d8f2f8ed62050, type: 2}
+  - {fileID: 11400000, guid: abf2cde28343b4f4e8e4030b2f7e7a22, type: 2}
+  - {fileID: 11400000, guid: adefe748e8853ab448f98487a3e6e2fb, type: 2}
+  - {fileID: 11400000, guid: 732f69454c59f3e4e9f9c9132a1d0494, type: 2}
+  - {fileID: 11400000, guid: 49d02cab9ddba114284dc5766fafc8b5, type: 2}
+  - {fileID: 11400000, guid: 17f81a37067d1684a8ac4adbc58dd799, type: 2}
+  - {fileID: 11400000, guid: 57f92922fa8e7194d8195e7fc76838cd, type: 2}
+  - {fileID: 11400000, guid: 924716b59fa0f3c45bf9b1402e9b9887, type: 2}
+  m_FixedDuration: 11.483333333333333
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: b9fd4c183fa0d384096220e4ed320760, type: 2}

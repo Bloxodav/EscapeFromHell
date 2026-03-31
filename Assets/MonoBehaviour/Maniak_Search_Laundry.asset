@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Maniak_Search_Laundry
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 1c617373a76e4224d8af2ee944af20ee, type: 2}
+  - {fileID: 11400000, guid: f34cbbaeb7cd4b94d922d4f0564f922a, type: 2}
+  - {fileID: 11400000, guid: e0df1d2b93aebbd4586cd4f7c2c9c459, type: 2}
+  - {fileID: 11400000, guid: 3d86975d3b09def439b11889ad4a9bd7, type: 2}
+  - {fileID: 11400000, guid: 5f3ca949949ae4e448a46ae55a1b6fa6, type: 2}
+  - {fileID: 11400000, guid: 27b0e8a6c2fbd1f4cbfeb16d3fc6b92e, type: 2}
+  - {fileID: 11400000, guid: 7f141941cbba5104bbb034dff483d0bb, type: 2}
+  m_FixedDuration: 51.833333333333
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 27919a2661ebc23448e80f963feda252, type: 2}

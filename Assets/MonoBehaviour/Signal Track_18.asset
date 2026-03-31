@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 661751997, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Signal Track_18
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000, guid: 5a0e4b1430bb70648b317c73012cca96, type: 2}
+  m_Children: []
+  m_Clips: []
+  m_Markers:
+    m_Objects:
+    - {fileID: 11400000, guid: 7388e3eecc14d014bbe2406ce12b725b, type: 2}
+    - {fileID: 11400000, guid: 995059569c8c7344abff316928abe018, type: 2}
+    - {fileID: 11400000, guid: 901039ed25ea325459f9068f62333c7c, type: 2}
+    - {fileID: 11400000, guid: 8c781acf993f3ba4191b8077942e8f9d, type: 2}
+    - {fileID: 11400000, guid: 50095c949210ed2408268476d8a2490c, type: 2}
+    - {fileID: 11400000, guid: d52499f8b6cd4cf4d97c5c78d8276af0, type: 2}
+    - {fileID: 11400000, guid: e4badfa0b787955439e131311a917114, type: 2}
+    - {fileID: 11400000, guid: 422e5dbb9f4b7344b9a3cf448ccee249, type: 2}
+    - {fileID: 11400000, guid: 14523fb0adbc02b4bb5999708cd9aa29, type: 2}
+    - {fileID: 11400000, guid: 5b1d717f10b25da4e8c4c4b5170d0964, type: 2}
+    - {fileID: 11400000, guid: 809ef0f6e92c97d4ab59b0e53cf2b759, type: 2}
+    - {fileID: 11400000, guid: 6d6ef2c1986e9734491a39626ec79fb7, type: 2}
+    - {fileID: 11400000, guid: 6a9cfb24f6f250f478e61f2062f47e34, type: 2}
+    - {fileID: 11400000, guid: 8eafa553949428144a9f17493fb270f5, type: 2}
+    - {fileID: 11400000, guid: 949689831a212a14a848dcf2bcb20413, type: 2}
+    - {fileID: 11400000, guid: 135141fe5a4986f45afc8debfe9987d0, type: 2}
+    - {fileID: 11400000, guid: 1445261c958a85043b3ed576b963b45a, type: 2}
+    - {fileID: 11400000, guid: 4118c25f1067d81488ea40f65e51c6c5, type: 2}
+    - {fileID: 11400000, guid: 464c2b7aedd633a438eac529c77bdba0, type: 2}

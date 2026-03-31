@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b53925f514dc86a6a3121bd439e4cd3, type: 3}
+  m_Name: SoundData
+  m_EditorClassIdentifier:
+  _bigButton: {fileID: 8300000, guid: 1dbf41c405c433a4da309d8760ef56e8, type: 3}
+  _smallButton: {fileID: 8300000, guid: 044b08dc7662b2b4489f9497ba88d22c, type: 3}
+  _starButton: {fileID: 8300000, guid: 2015c592bbfd21542942157dcda4089a, type: 3}

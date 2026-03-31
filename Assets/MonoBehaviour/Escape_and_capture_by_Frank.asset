@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Escape_and_capture_by_Frank
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: e7f507340c58875489bc74d8a6e1bc39, type: 2}
+  - {fileID: 11400000, guid: 603bb9e2a231b704c8b78f56cb424bd6, type: 2}
+  - {fileID: 11400000, guid: d7331b22d01ce7c4f88e55ab75ff8456, type: 2}
+  - {fileID: 11400000, guid: 5fe80c8141abdf148bd5e932163c788f, type: 2}
+  - {fileID: 11400000, guid: 3a6a9af1d5c8f2643aaec1f6b7e25f62, type: 2}
+  - {fileID: 11400000, guid: 3bf3baee23b96b14a8796271e4bd82e9, type: 2}
+  - {fileID: 11400000, guid: fda61eae6539e3343a8eb7d465d25c29, type: 2}
+  - {fileID: 11400000, guid: af9f0cf02d7f0f34dba4a886ba0ac9b3, type: 2}
+  - {fileID: 11400000, guid: 8e3d51c0c7424974ea8947b71a097325, type: 2}
+  - {fileID: 11400000, guid: 1812985fdb224eb418e81b0ce48d2c76, type: 2}
+  - {fileID: 11400000, guid: e79ef5a1da720ac41ba38a95ad185943, type: 2}
+  - {fileID: 11400000, guid: a81076734b125b2459231698258750be, type: 2}
+  - {fileID: 11400000, guid: dab215bce2d02b943a37927666892455, type: 2}
+  - {fileID: 11400000, guid: 52c41ed9e1d904346b18ebfbedfcf9a7, type: 2}
+  - {fileID: 11400000, guid: 6ffbb00a175adce4bb53edf6e5b764fe, type: 2}
+  - {fileID: 11400000, guid: d29aea79401bb62439b93c7cd1495e49, type: 2}
+  - {fileID: 11400000, guid: 9cb57a09f6f46f840b3a725e2ae18696, type: 2}
+  - {fileID: 11400000, guid: 99f9878a07088f346994324f0eb1d825, type: 2}
+  - {fileID: 11400000, guid: 8083dde12e9299e4da9d36561fbbb683, type: 2}
+  - {fileID: 11400000, guid: a5238880c1890a74db8585180db744ff, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: e0c7585d3827a4242b233e6f624382c9, type: 2}

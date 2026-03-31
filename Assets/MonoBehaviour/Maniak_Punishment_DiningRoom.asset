@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Maniak_Punishment_DiningRoom
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: e9ef5bdddb3cb7240a7591c6da338f56, type: 2}
+  - {fileID: 11400000, guid: 26fef3789dfb7234eb44cd2f29be89b4, type: 2}
+  - {fileID: 11400000, guid: 6f5726859218cde48ad2b245620f6f8d, type: 2}
+  - {fileID: 11400000, guid: f190ff98b90670c40925d0ae62c80fc2, type: 2}
+  - {fileID: 11400000, guid: 93ef7bdb19ec2074daf4380cdd41dcbb, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: d8e93fc24a4112240b2d6d95d4e2152b, type: 2}
